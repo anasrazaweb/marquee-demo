@@ -34,7 +34,7 @@ const ReviewCard = ({ img }) => {
       )}
     >
       <div className="flex flex-row items-center gap-2">
-        <img className="rounded-md w-40 h-52" alt="img" src={img} />
+        <img className="rounded-md w-40 h-52" alt="img-fast" src={img} />
       </div>
     </figure>
   );
